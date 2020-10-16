@@ -1,5 +1,7 @@
-# README
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+
+# Twitter-Clone
+Twitter Clone Website
 
 This README normally document the steps involved to run a live version of a Twitter Clone.
 
