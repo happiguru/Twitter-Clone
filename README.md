@@ -5,6 +5,9 @@ Twitter Clone Website
 
 This README normally document the steps involved to run a live version of a Twitter Clone.
 
+![app screenshot](img/Screenshot_2020-10-16_15-19-45.png)
+![app screenshot](img/Screenshot_2020-10-16_15-20-37.png)
+
 Things you may want to cover:
 
 * Ruby version
