@@ -25,7 +25,7 @@ In order to run, you need to install Ruby in your computer. For windows you can 
 To get a local copy up and running follow these simple example steps.
 
 - Open a terminal
-- Copy this code : ```git clone "put the link from github repo"```
+- Copy this code : ```git clone "https://github.com/happiguru/Twitter-Clone"```
 - Run the program with this code : ```bundle install```
 - Run the program with this code : ```rails db:create rails db:migrate rails server```
 - Stop the program with: "Ctrl + C" (Windows or Linux) or "Command + C"(Apple)
